@@ -1,4 +1,4 @@
-## Project 1
+## [Project 1](Project1.md)
 
 Adding some text about Project 1
 
